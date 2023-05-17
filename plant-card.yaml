@@ -1,0 +1,4 @@
+name: Plant Card
+resources:
+  - url: /hacsfiles/plant-card/plant-card.js
+    type: module
